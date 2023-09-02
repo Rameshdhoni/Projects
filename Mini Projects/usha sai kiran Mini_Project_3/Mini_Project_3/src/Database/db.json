@@ -1,0 +1,95 @@
+{
+  "admin": [
+    {
+      "username": "Surabhi",
+      "password" : "Surabhi@123"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Elyon Parisapogu",
+      "username": "elyonpb",
+      "email": "elyonb.parisapogu@gmail.com",
+      "phone": "9493382422",
+      "password": "Elyon@123"
+    },
+    {
+      "id": 2,
+      "name": "Vishnu Sammy",
+      "username": "vishnusammy",
+      "email": "vishnusam@gmail.com",
+      "phone": "9493456732",
+      "password": "sammy@123"
+    },
+    {
+      "id": 3,
+      "name": "David Warner",
+      "username": "david123",
+      "email": "davidwarner@gmail.com",
+      "phone": "8393342422",
+      "password": "warner@123"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "itemname": "Dosa",
+      "price": 20,
+      "type": "Breakfast"
+    },
+    {
+      "id": 2,
+      "itemname": "Puri",
+      "price": 30,
+      "type": "Breakfast"
+    },
+    {
+      "id": 3,
+      "itemname": "Idly",
+      "price": 15,
+      "type": "Breakfast"
+    },
+    {
+      "id": 4,
+      "itemname": "Vegetable Rice",
+      "price": 70,
+      "type": "Lunch"
+    },
+    {
+      "id": 5,
+      "itemname": "Chicken Biryani",
+      "price": 150,
+      "type": "Lunch"
+    },
+    {
+      "itemname": "CurdRice",
+      "price": 60,
+      "type": "Lunch",
+      "id": 6
+    },
+    {
+      "itemname": "Upma",
+      "price": 25,
+      "type": "Breakfast",
+      "id": 7
+    },
+    {
+      "itemname": "Semiya",
+      "price": "15",
+      "type": "Breakfast",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "itemname": "CurdRice",
+      "price": 60,
+      "type": "Lunch",
+      "id": 6,
+      "plates": "3",
+      "date": "25-09-2022",
+      "username": "elyon"
+    }
+  ]
+}

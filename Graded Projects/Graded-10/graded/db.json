@@ -1,0 +1,51 @@
+{
+  "Milestones": [
+    {
+      "id": 1,
+      "milestone": "add database design",
+      "project": "LibraryManagment",
+      "stage": "In Prograssess",
+      "complitionDate": "2005-06-12",
+      "TL": "Ankit Gupta",
+      "assignedTo": "Deepika Mittal"
+    },
+    {
+      "id": "2",
+      "milestone": "database design",
+      "project": "schoolMangement",
+      "stage": "completed",
+      "complitionDate": "2023-01-01",
+      "TL": "vamsi",
+      "assignedTo": "vamsi"
+    },
+    {
+      "id": "3",
+      "milestone": "web deign",
+      "project": "frontend using react",
+      "stage": "started",
+      "complitionDate": "2023-01-11",
+      "TL": "vinay",
+      "assignedTo": "vinay"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "ramesh",
+      "email": "ramesh@gmail.com",
+      "password": "ramesh@123"
+    },
+    {
+      "id": 2,
+      "name": "vamsi",
+      "email": "vamsi@gmail.com",
+      "password": "vamsi@123"
+    },
+    {
+      "id": "3",
+      "name": "vinay",
+      "email": "vinay@gmail.com",
+      "password": "vinay123"
+    }
+  ]
+}

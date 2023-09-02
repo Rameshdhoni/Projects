@@ -1,0 +1,11 @@
+ create database miniproject_db;
+ use miniproject_db;
+ show tables;
+ desc admin_table;
+ desc  menu_table;
+ desc  order_details_table;
+ desc  user_table;
+ select * from user_table;
+ select * from  menu_table; 
+ select * from order_details_table;
+ select * from user_table;
